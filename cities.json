@@ -1,0 +1,36 @@
+{
+	"cityName":"Kraków",
+	"population":700000,
+	"thumbImage":"http://",
+	"rating":4.5,
+	"geolocation": {
+		"longitude":11,
+		"longitudeSign":"W",
+		"latidute":12,
+		"latiduteSign":"N"
+	}
+},
+{
+	"cityName":"Los Angeles",
+	"population":1200000,
+	"thumbImage":"http://",
+	"rating":4.5,
+	"geolocation": {
+		"longitude":11,
+		"longitudeSign":"W",
+		"latidute":12,
+		"latiduteSign":"N"
+	}
+},
+{
+	"cityName":"Moskwa",
+	"population":1200000,
+	"thumbImage":"http://",
+	"rating":4.5,
+	"geolocation": {
+		"longitude":11,
+		"longitudeSign":"W",
+		"latidute":12,
+		"latiduteSign":"N"
+	}
+}
