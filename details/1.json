@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "detailText": "Magical city of Krakow",
+    "cityDescription": "Kraków (/ˈkrækaʊ, -koʊ/, also US: /ˈkreɪk-, ˈkrɑːkaʊ/, UK: /ˈkrækɒf/, Polish: [ˈkrakuf]), written in English as Krakow and traditionally known as Cracow, is the second largest and one of the oldest cities in Poland. Situated on the Vistula River in Lesser Poland Province, the city dates back to the 7th century. Kraków was the official capital of Poland until 1596 and has traditionally been one of the leading centres of Polish academic, economic, cultural and artistic life. Cited as one of Europe's most beautiful cities, its Old Town was declared the first UNESCO World Heritage Site in the world.",
+    "population":779115,
+    "rating":4.7,
+    "geolocation":{
+        "longitude":19.93658,
+        "latidute":50.06143
+    }
+}

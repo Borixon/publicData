@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name":"Cracow",
+        "image":"https://github.com/Borixon/publicData/blob/master/images/krk.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Los Angeles",
+        "image":"https://github.com/Borixon/publicData/blob/master/images/la.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Moscow",
+        "image":"https://github.com/Borixon/publicData/blob/master/images/mscw.jpg"
+    },
+    {
+        "id": 4,
+        "name":"Puerto Arturo",
+        "image":"https://github.com/Borixon/publicData/blob/master/images/puerto.jpg"
+    }
+]
+]

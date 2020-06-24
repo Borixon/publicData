@@ -1,0 +1,11 @@
+{
+    "id": 2,
+    "detailText":"Los Angeles", 
+    "rating":4.5,
+    "cityDescription": "",
+    "population":700000,
+    "geolocation":{
+        "longitude":-118.243683,
+        "latidute":34.052235
+    }
+}

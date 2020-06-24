@@ -1,0 +1,11 @@
+{
+    "id": 3,
+    "detailText":"Moscow",
+    "population":1200000,
+    "cityDescription":"",
+    "rating":4.5,
+    "geolocation":{
+        "longitude":37.618423,
+        "latidute":55.751244
+    }
+}
