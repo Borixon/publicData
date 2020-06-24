@@ -2,21 +2,21 @@
     {
         "id": 1,
         "name":"Cracow",
-        "image":"https://github.com/Borixon/publicData/blob/master/images/krk.jpg"
+        "image":"https://raw.githubusercontent.com/Borixon/publicData/master/images/KRK.jpg"
     },
     {
         "id": 2,
         "name":"Los Angeles",
-        "image":"https://github.com/Borixon/publicData/blob/master/images/la.jpg"
+        "image":"https://raw.githubusercontent.com/Borixon/publicData/master/images/LA.jpg"
     },
     {
         "id": 3,
         "name":"Moscow",
-        "image":"https://github.com/Borixon/publicData/blob/master/images/mscw.jpg"
+        "image":"https://raw.githubusercontent.com/Borixon/publicData/master/images/mscw.jpg"
     },
     {
         "id": 4,
         "name":"Puerto Arturo",
-        "image":"https://github.com/Borixon/publicData/blob/master/images/puerto.jpg"
+        "image":"https://raw.githubusercontent.com/Borixon/publicData/master/images/puerto.jpg"
     }
 ]
